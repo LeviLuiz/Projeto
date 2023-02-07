@@ -13,12 +13,10 @@ function toogleMode() {
 
   //substituir a imagem
   if (html.classList.contains("light")) {
-    alert("Modo Claro")
     //se tiver light mode, adicionar a imagem light
     img.setAttribute("src", "./assets/avatar-light.jfif")
   } else {
     //se tiver sem light mode, manter a imagem escura
     img.setAttribute("src", "./assets/avatar.jfif")
-    alert("Modo Escuro")
   }
 }
