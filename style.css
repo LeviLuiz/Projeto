@@ -73,8 +73,8 @@ body * {
   margin: 1px auto;
 }
 #switch button {
-  width: 32px;
-  height: 32px;
+  width: 25px;
+  height: 25px;
   background: white var(--switch-bg-url) no-repeat center;
   border: 0;
   border-radius: 50%;
@@ -98,7 +98,7 @@ body * {
 
 #switch span {
   display: block;
-  width: 64px;
+  width: 60px;
   height: 24px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
@@ -191,7 +191,7 @@ footer {
     left: 0;
   }
   to {
-    left: 50%;
+    left: 54%;
   }
 }
 
@@ -204,4 +204,4 @@ footer {
   }
 }
 
-/* https://LeviLuiz.github.io/projeto/ /*
+/* https://LeviLuiz.github.io/Projeto /*
