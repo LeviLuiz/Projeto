@@ -1,7 +1,7 @@
 <hi aling="center"> Sítio Origem Caipira </h1>
 
 <p aling="center">
-Programa exclusivo e gratuito, promovido pela empresa Sítio Origem Caipira para ensino de tecnologias na WEB.
+A empresa Sítio Origem Caipira é uma empresa que vende leite e gado vivo ou morto. Ela Trata os animais muito bem.
 </p>
 
 <p aling="center">
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻Projeto
 
-O Sítio Origem Caipira é uma empresa de criação de animais para consumo, e venda.
+A empresa Sítio Origem Caipira é uma empresa de criação de animais para consumo e venda.
 
 ## 🔖Disposição
 
