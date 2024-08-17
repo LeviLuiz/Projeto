@@ -2,10 +2,10 @@ function toogleMode() {
   const html = document.documentElement
   html.classList.toggle("light")
 
-  //if (html.classList.contains("light")) {
-  //html.classList.remove("light")
-  //} else {
-  //html.classList.add("light")
+  //se (html.classList.conter("light")) {
+  //html.classList.remover("light")
+  //} caso contrario {
+  //html.classList.adicionar("light")
   //}
 
   //pegar a tag img

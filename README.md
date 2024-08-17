@@ -42,4 +42,4 @@ Você pode visualizar o layout do projeto através [DESSE_LINK](<https://www.fig
 
 Esse projeto está sob a licença MIT.
 
-feito com ♥ pela empresa Sítio Origem Caipira👋
+Feito com ♥ pela empresa Sítio Origem Caipira👋.
