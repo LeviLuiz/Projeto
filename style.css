@@ -7,8 +7,8 @@
 :root {
   --CorBranca: White;
   --bg-url: url(./assets/bg-mobile.jpg);
-  --stroke-color: rgba(255, 255, 255, 0.5);
-  --surface-color: rgba(255, 255, 255, 0.05);
+  --stroke-color: rgba(255, 255, 255, 0.45);
+  --surface-color: rgba(255, 255, 255, 0.035);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/moon-stars.svg);
@@ -17,8 +17,8 @@
 .light {
   --CorBranca: Black;
   --bg-url: url(./assets/bg-mobile-light.jpg);
-  --stroke-color: rgba(0, 0, 0, 0.5);
-  --surface-color: rgba(0, 0, 0, 0.05);
+  --stroke-color: rgba(0, 0, 0, 0.45);
+  --surface-color: rgba(0, 0, 0, 0.06);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(0, 0, 0, 0.1);
   --switch-bg-url: url(./assets/sun.svg);
@@ -49,7 +49,7 @@ body * {
   padding: 0 24px;
 }
 
-/* profile */
+/* Perfil */
 #profile {
   text-align: center;
   padding: 24px;
@@ -136,7 +136,7 @@ ul li a {
   text-decoration: none;
   font-weight: 500;
 
-  transition: background 5s;
+  transition: background 0.4s;
 }
 
 ul li a:hover {
@@ -144,7 +144,7 @@ ul li a:hover {
   border: 1px solid var(--CorBranca);
 }
 
-/* social links */
+/* midia social */
 #social-links {
   display: flex;
   justify-content: center;
@@ -160,8 +160,8 @@ ul li a:hover {
   justify-content: center;
   padding: 16px;
 
-  transition: background 0.5s;
-  border-radius: 50%;
+  transition: background 0.3s;
+  border-radius: 100%;
 }
 
 #social-links a:hover {
@@ -185,7 +185,7 @@ footer {
   }
 }
 
-/* animation */
+/* animação */
 @keyframes slide-in {
   from {
     left: 0;
