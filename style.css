@@ -85,7 +85,7 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide-out 0.4s forwards;
+  animation: slide-out 0.3s forwards;
 }
 
 .light #switch button {
@@ -191,7 +191,7 @@ footer {
     left: 0;
   }
   to {
-    left: 54%;
+    left: 55%;
   }
 }
 
