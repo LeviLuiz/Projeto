@@ -185,7 +185,7 @@ footer {
   }
 }
 
-/* animação */
+/* animação */ /* Proporção da distancia que o simbolo vai */
 @keyframes slide-in {
   from {
     left: 0;
