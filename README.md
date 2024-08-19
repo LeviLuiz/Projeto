@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A empresa Sítio Origem Caipira é uma empresa de criação de animais para consumo e venda.
 
+Você pode deixar seu FeedBack [AQUI](https://github.com/LeviLuiz/Projeto/issues), é necessário ter conta no [GitHub](https://github.com/login) para deixa-lo.
+
 ## 🔖Disposição
 
 Você pode visualizar o layout do projeto através [DESSE_LINK](<https://www.figma.com/file/MF894TdzM99Fg9Ssu4KyMq/DevLinks-(Copy)?node-id=1%3A113&t=8x94o7ecTaQMC@CS-1/duplicate>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
