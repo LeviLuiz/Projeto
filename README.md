@@ -18,7 +18,7 @@ A empresa Sítio Origem Caipira é uma empresa que vende leite e gado vivo ou mo
 <br>
 
 <p aling="center">
-  <img  alt="Projeto - Sítio Origem Caipira" src=".github/preview.jpg" width="1884">
+  <img  alt="Projeto - Sítio Origem Caipira" src=".github/preview.jpg" width="500">
   </p>
 
 ## 🚀Tecnologias
