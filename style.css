@@ -1,8 +1,11 @@
 /* Adicione o t no ligh (no index.html) para deixar a página inicialmente branca */
+
+/* Tudo */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+    border: 1px solid red;
 }
 
 :root {
@@ -25,6 +28,7 @@
   --switch-bg-url: url(./assets/sun.svg);
 }
 
+/* Plano de Fundo */
 body {
   /*
   background-image: url(./assets/bg-mobile.jpg);
@@ -37,12 +41,13 @@ body {
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
 }
-
+/* Tudo sem o Plano de Fundo*/
 body * {
   font-family: "Inter", sans-serif;
   color: var(--CorBranca);
 }
 
+/* Container dos Links, Foto de Perfil e Mídia Social*/
 #container {
   width: 100%;
   max-width: 588px;
@@ -51,7 +56,7 @@ body * {
   border-radius: 15px;
 }
 
-/* Perfil */
+/* Foto de Perfil */
 #profile {
   text-align: center;
   padding: 24px;
@@ -68,7 +73,7 @@ body * {
   margin-top: 8px;
 }
 
-/* switch */
+/* Botão */
 #switch {
   position: relative;
   width: 64px;
@@ -168,6 +173,7 @@ ul li a:hover {
   background: var(--highlight-color);
 }
 
+/* Roda Pé */
 footer {
   padding: 16px 0;
   text-align: center;
@@ -175,7 +181,7 @@ footer {
   border-radius: 15px;
 }
 
-/* media queries */
+/* Desing do Plano de Fundo */
 @media (min-width: 700px) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
@@ -186,7 +192,7 @@ footer {
   }
 }
 
-/* animação */ /* Proporção da distancia que o simbolo vai */
+/* Animação e Distância que o Botão vai */
 @keyframes slide-in {
   from {
     left: 0;
