@@ -1,10 +1,11 @@
 /* Adicione o t no ligh (no index.html) para deixar a página inicialmente branca */
 
-/* Tudo */ /* Aqui */
+/* Tudo */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  border-radius: 15px;
 }
 
 :root {
